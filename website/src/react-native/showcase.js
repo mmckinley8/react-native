@@ -412,6 +412,15 @@ var pinned = [
     defaultLink: 'http://android.myapp.com/myapp/detail.htm?apkName=com.tencent.mobileqq',
   },
   {
+    name: 'Stridekick',
+    icon: 'https://goo.gl/mFicpO',
+    linkAppStore: 'https://itunes.apple.com/us/app/stridekick/id933359805?mt=8',
+    linkPlayStore: 'https://play.google.com/store/apps/details?id=com.stridekick&hl=en',
+    infoLink: 'https://stridekick.com/',
+    infoTitle: 'Stridekick provides reliable product integration with the top fitness tracker and smartwatch brands so you can compete with friends using different trackers.',
+    defaultLink: 'https://itunes.apple.com/us/app/stridekick/id933359805?mt=8',
+  },
+  {
     name: 'Townske',
     icon: 'http://a3.mzstatic.com/us/r30/Purple69/v4/8b/42/20/8b4220af-5165-91fd-0f05-014332df73ef/icon175x175.png',
     linkAppStore: 'https://itunes.apple.com/us/app/townske-stunning-city-guides/id1018136179?ls=1&mt=8',
